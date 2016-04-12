@@ -1,4 +1,4 @@
-# Vax Sentiment Template
+# Vax-sentiment csv-to-gml
 
 scripts from the `src` directory should all be called form the root project directory, not the `src` directory
 
